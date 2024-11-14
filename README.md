@@ -32,4 +32,3 @@ principal de cadastro de visitantes
 - Ter um servidor web como o **XAMPP** ou **WAMP** instalado.
 - Ter o **PHP** e o **MySQL** configurados corretamente no seu servidor local.
 - Banco de dados **feiraetec** criado no MySQL
-- 
